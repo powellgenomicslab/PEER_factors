@@ -19,7 +19,7 @@ Scripts are listed by the order in the methods section of the manuscript:
 8. Supplementary figures and tables
 
 
-All code is also available on Angli's personal Github: https://github.com/anglixue/PEER_factors/ and Zenodo: https://doi.org/10.5281/zenodo.7513271
+All code is also available on Angli's personal Github: https://github.com/anglixue/PEER_factors/ and Zenodo: https://doi.org/10.5281/zenodo.7513270
 
 # Reference
 
