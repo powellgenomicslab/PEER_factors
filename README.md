@@ -22,7 +22,8 @@ Folder v1.0 contains the older version of the scripts.
 
 All code is also available on Angli's personal Github: https://github.com/anglixue/PEER_factors/ and Zenodo: https://doi.org/10.5281/zenodo.7513270
 
-# Reference
+# Citation
 
-Angli Xue, Seyhan Yazar, Drew Neavin, Joseph E. Powell. Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses. _provisionally accepted_. 2022. [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.02.502566v1)
+Angli Xue, Seyhan Yazar, Drew Neavin, Joseph E. Powell. Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses. _provisionally accepted_. Genome Biology. 2022. [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.02.502566v1)
 
+For questions, please email us at Angli Xue (a.xue@garvan.org.au) or Joseph E. Powell (j.powell@garvan.org.au)
