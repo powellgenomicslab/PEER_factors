@@ -15,11 +15,11 @@ Scripts are listed by the order in the methods section of the manuscript:
 6. Principal component analysis (PCA)
     + Generate PCs by [PCAForQTL](https://github.com/heatherjzhou/PCAForQTL)
     + Run eQTL sensitivity test adjusting PCs 0-50 (similar to PFs)
-7. Main figures and supplementary figures
-    + Include the analysis for identifying the optimal number of latent variables by comparing automatic elbow detection method and our local greedy method.
+7. Main figures
+8. Supplementary figures and tables
 
 
-All code is also available on Angli's personal Github: https://github.com/anglixue/PEER_factors/
+All code is also available on Angli's personal Github: https://github.com/anglixue/PEER_factors/ and Zenodo: https://doi.org/10.5281/zenodo.7513271
 
 # Reference
 
