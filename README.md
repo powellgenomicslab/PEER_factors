@@ -18,6 +18,7 @@ Scripts are listed by the order in the methods section of the manuscript:
 7. Main figures
 8. Supplementary figures and tables
 
+Folder v1.0 contains the older version of the scripts.
 
 All code is also available on Angli's personal Github: https://github.com/anglixue/PEER_factors/ and Zenodo: https://doi.org/10.5281/zenodo.7513270
 
