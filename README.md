@@ -1,5 +1,5 @@
 # PEER_factors
-This repository contains the analysis code pipeline to generate PEER factors from pseudo-bulk data and perform eQTL association analysis as part of the manuscript "**Pitfalls and opportunities for applying PEER factors in single-cell eQTL analyses**"
+This repository contains the analysis code pipeline to generate PEER factors from pseudo-bulk data and perform eQTL association analysis as part of the manuscript "**Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses**"
 
 Scripts are listed by the order in the methods section of the manuscript:
 
@@ -23,5 +23,5 @@ All code is also available on Angli's personal Github: https://github.com/anglix
 
 # Reference
 
-Angli Xue, Seyhan Yazar, Drew Neavin, Joseph E. Powell. Pitfalls and opportunities for applying PEER factors in single-cell eQTL analyses. _Under revision_. 2022. [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.02.502566v1)
+Angli Xue, Seyhan Yazar, Drew Neavin, Joseph E. Powell. Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses. _provisionally accepted_. 2022. [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.02.502566v1)
 
