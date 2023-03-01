@@ -1,4 +1,4 @@
-# PEER_factors
+# Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses
 This repository contains the analysis code pipeline to generate PEER factors from pseudo-bulk data and perform eQTL association analysis as part of the manuscript "**Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses**"
 
 Scripts are listed by the order in the methods section of the manuscript:
@@ -24,6 +24,6 @@ All code is also available on Angli's personal Github: https://github.com/anglix
 
 # Citation
 
-Angli Xue, Seyhan Yazar, Drew Neavin, Joseph E. Powell. Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses. _provisionally accepted_. Genome Biology. 2023. [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.02.502566v1)
+Angli Xue, Seyhan Yazar, Drew Neavin, Joseph E. Powell. Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses. _Genome Biology_. 2023. [[Full text](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02873-5)]
 
 For questions, please email us at Angli Xue (a.xue@garvan.org.au) or Joseph E. Powell (j.powell@garvan.org.au)
