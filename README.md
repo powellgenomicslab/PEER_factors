@@ -24,9 +24,9 @@ All code is also available on Angli's personal Github: https://github.com/anglix
 
 # New OneK1K Seurat object and PEER factors
 
-We have submitted the OneK1K Seurat object that was used in Yazar et al. (Science. 2022) to the cellxgene. However, the platform only accepts GRCh38 but in Yazar et al we used GRCh37. So we have to realign the data to fulfill the website requirement, which explains the slight difference in the number of cells between the published version and cellxgene version.
+We have submitted the OneK1K Seurat object that was used in Yazar et al. (Science. 2022) to the cellxgene. However, the platform only accepts GRCh38 but in Yazar et al we used GRCh37. So we have to realign the data to fulfill the website requirement, which explains the difference in the number of cells between the published version (1,267,768 cells) and cellxgene version (1,248,980 cells).
 
-Also, we suggest removing two individuals (“88_88” and “966_967”) due to the extremely low number of cells and abnormal cell composition. The exact steps can be found on line #18-22 on this [Github page](https://github.com/powellgenomicslab/PEER_factors/blob/main/1-Extract_datasets/Extract_RDS_all_cell_types.R).
+Also, we suggest removing two individuals (“88_88” and “966_967”) due to the extremely low number of cells and abnormal cell composition. The exact steps can be found on line #18-22 on this [Github page](https://github.com/powellgenomicslab/PEER_factors/blob/main/1-Extract_datasets/Extract_RDS_all_cell_types.R). After this step, we retained 1,266,401 cells from 980 donors for the main analysis in this paper.
 
 If you need the updated Seurat object of OneK1K or newly generated PEER factors for 14 cell types, please email Angli Xue (a.xue@garvan.org.au).
 
